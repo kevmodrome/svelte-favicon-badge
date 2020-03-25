@@ -1,7 +1,7 @@
 {
   "name": "svelte-favicon-badge",
   "svelte": "src/index.js",
-  "version": "0.9",
+  "version": "1.0.0",
   "description": "A custom component that adds a favicon and a badge that you can use to show for example number of unread messages",
   "repository": "https://github.com/kevmodrome/svelte-favicon-badge",
   "module": "dist/index.mjs",
