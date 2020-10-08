@@ -6,7 +6,8 @@ A custom component that adds a favicon and a badge that you can use to show for 
 
 <p align="center">
 
-![ScreenShot](screenshot.gif)
+
+<img src="./screenshot.gif" alt="Screenshot"/>
 
 </p>
 
