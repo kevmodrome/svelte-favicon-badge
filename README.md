@@ -4,11 +4,16 @@ A custom component that adds a favicon and a badge that you can use to show for 
 
 ## Example
 
-![ScreenShot](screenshot.gif)
+<p align="center">
 
-## Usage
 
-Simply import the component and add it to your markup. It's probably a good idea to only use one per page/route since there could be conflicts.
+<img src="./screenshot.gif" alt="Screenshot"/>
+
+</p>
+
+## Quick Start
+
+Install via `npm i svelte-favicon-badge` and simply import the component and add it to your markup. It's probably a good idea to only use one per page/route since there could be conflicts.
 The options are: `count` `background` `color` and `href`
 
 ```html
