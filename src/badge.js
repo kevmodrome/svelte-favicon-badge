@@ -43,7 +43,7 @@ export function badge(node, { count, background, color }) {
       setNotification(count, background, color);
     },
     destroy() {
-      img.removeEventListener("load");
+      img.removeEventListener("load", () => { });
     }
   };
 }
